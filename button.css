@@ -12,7 +12,7 @@ button {
   padding: 1em 2em;
   color: #ffa260;
   border: 2px solid;
-  transition: ease 0.5s;
+  transition: ease 0.25s;
 }
 
 button:hover {
